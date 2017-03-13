@@ -1,4 +1,4 @@
-package com.tiaa.querybuilder;
+package com.orgname.querybuilder;
 
 import java.io.IOException;
 import java.sql.Connection;

@@ -1,4 +1,4 @@
-package com.tiaa.querybuilder;
+package com.orgname.querybuilder;
 
 import java.sql.Date;
 
